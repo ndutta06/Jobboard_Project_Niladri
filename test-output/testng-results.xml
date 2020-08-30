@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="335858" started-at="2020-08-30T09:40:10Z" finished-at="2020-08-30T09:45:46Z">
+    <groups>
+    </groups>
+    <test name="SDET" duration-ms="335858" started-at="2020-08-30T09:40:10Z" finished-at="2020-08-30T09:45:46Z">
+      <class name="Selenium.Activity8">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Selenium.Activity8@7cdbc5d3]" name="beforeMethod" is-config="true" duration-ms="13903" started-at="2020-08-30T15:13:01Z" finished-at="2020-08-30T15:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LogintoWebsiteBackend()[pri:0, instance:Selenium.Activity8@7cdbc5d3]" name="LogintoWebsiteBackend" duration-ms="11528" started-at="2020-08-30T15:13:15Z" finished-at="2020-08-30T15:13:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogintoWebsiteBackend -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Selenium.Activity8@7cdbc5d3]" name="afterMethod" is-config="true" duration-ms="3848" started-at="2020-08-30T15:13:26Z" finished-at="2020-08-30T15:13:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity8 -->
+      <class name="Selenium.Activity7">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Selenium.Activity7@47fd17e3]" name="beforeMethod" is-config="true" duration-ms="18950" started-at="2020-08-30T15:11:30Z" finished-at="2020-08-30T15:11:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="CreateaNewJobListing()[pri:0, instance:Selenium.Activity7@47fd17e3]" name="CreateaNewJobListing" duration-ms="66219" started-at="2020-08-30T15:11:49Z" finished-at="2020-08-30T15:12:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateaNewJobListing -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Selenium.Activity7@47fd17e3]" name="afterMethod" is-config="true" duration-ms="5366" started-at="2020-08-30T15:12:55Z" finished-at="2020-08-30T15:13:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity7 -->
+      <class name="Selenium.Activity9">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Selenium.Activity9@3834d63f]" name="beforeMethod" is-config="true" duration-ms="14615" started-at="2020-08-30T15:14:26Z" finished-at="2020-08-30T15:14:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="CreateJobListingfromBackend()[pri:0, instance:Selenium.Activity9@3834d63f]" name="CreateJobListingfromBackend" duration-ms="60932" started-at="2020-08-30T15:14:41Z" finished-at="2020-08-30T15:15:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateJobListingfromBackend -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Selenium.Activity9@3834d63f]" name="afterMethod" is-config="true" duration-ms="3878" started-at="2020-08-30T15:15:42Z" finished-at="2020-08-30T15:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity9 -->
+      <class name="Selenium.Activity4">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Selenium.Activity4@33a10788]" name="beforeMethod" is-config="true" duration-ms="16534" started-at="2020-08-30T15:10:32Z" finished-at="2020-08-30T15:10:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="VerifyWebsiteSecondHeading()[pri:0, instance:Selenium.Activity4@33a10788]" name="VerifyWebsiteSecondHeading" duration-ms="49" started-at="2020-08-30T15:10:49Z" finished-at="2020-08-30T15:10:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyWebsiteSecondHeading -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Selenium.Activity4@33a10788]" name="afterMethod" is-config="true" duration-ms="3670" started-at="2020-08-30T15:10:49Z" finished-at="2020-08-30T15:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity4 -->
+      <class name="Selenium.Activity3">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Selenium.Activity3@7bb11784]" name="beforeMethod" is-config="true" duration-ms="18295" started-at="2020-08-30T15:10:10Z" finished-at="2020-08-30T15:10:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="GetURLofHeaderImage()[pri:0, instance:Selenium.Activity3@7bb11784]" name="GetURLofHeaderImage" duration-ms="100" started-at="2020-08-30T15:10:28Z" finished-at="2020-08-30T15:10:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetURLofHeaderImage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Selenium.Activity3@7bb11784]" name="afterMethod" is-config="true" duration-ms="3657" started-at="2020-08-30T15:10:28Z" finished-at="2020-08-30T15:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity3 -->
+      <class name="Selenium.Activity6">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Selenium.Activity6@17d99928]" name="beforeMethod" is-config="true" duration-ms="13901" started-at="2020-08-30T15:13:52Z" finished-at="2020-08-30T15:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ApplytoaJob()[pri:0, instance:Selenium.Activity6@17d99928]" name="ApplytoaJob" duration-ms="16289" started-at="2020-08-30T15:14:06Z" finished-at="2020-08-30T15:14:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplytoaJob -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Selenium.Activity6@17d99928]" name="afterMethod" is-config="true" duration-ms="3765" started-at="2020-08-30T15:14:23Z" finished-at="2020-08-30T15:14:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity6 -->
+      <class name="Selenium.Activity5">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Selenium.Activity5@3aa9e816]" name="beforeMethod" is-config="true" duration-ms="15433" started-at="2020-08-30T15:13:30Z" finished-at="2020-08-30T15:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="NavigatetoJobsPage()[pri:0, instance:Selenium.Activity5@3aa9e816]" name="NavigatetoJobsPage" duration-ms="3206" started-at="2020-08-30T15:13:46Z" finished-at="2020-08-30T15:13:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoJobsPage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Selenium.Activity5@3aa9e816]" name="afterMethod" is-config="true" duration-ms="3767" started-at="2020-08-30T15:13:49Z" finished-at="2020-08-30T15:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity5 -->
+      <class name="Selenium.Activity2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Selenium.Activity2@34033bd0]" name="beforeMethod" is-config="true" duration-ms="14562" started-at="2020-08-30T15:11:11Z" finished-at="2020-08-30T15:11:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="VerifyWebsiteHeading()[pri:0, instance:Selenium.Activity2@34033bd0]" name="VerifyWebsiteHeading" duration-ms="54" started-at="2020-08-30T15:11:26Z" finished-at="2020-08-30T15:11:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyWebsiteHeading -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Selenium.Activity2@34033bd0]" name="afterMethod" is-config="true" duration-ms="4488" started-at="2020-08-30T15:11:26Z" finished-at="2020-08-30T15:11:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity2 -->
+      <class name="Selenium.Activity1">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Selenium.Activity1@7006c658]" name="beforeMethod" is-config="true" duration-ms="15882" started-at="2020-08-30T15:10:52Z" finished-at="2020-08-30T15:11:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="VerifyWebsiteTitle()[pri:0, instance:Selenium.Activity1@7006c658]" name="VerifyWebsiteTitle" duration-ms="14" started-at="2020-08-30T15:11:08Z" finished-at="2020-08-30T15:11:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyWebsiteTitle -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Selenium.Activity1@7006c658]" name="afterMethod" is-config="true" duration-ms="2872" started-at="2020-08-30T15:11:08Z" finished-at="2020-08-30T15:11:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity1 -->
+    </test> <!-- SDET -->
+  </suite> <!-- Suite -->
+</testng-results>
